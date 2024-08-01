@@ -1,1 +1,1 @@
-export { useColorScheme } from 'react-native'; // test3
+export { useColorScheme } from 'react-native'; // test
